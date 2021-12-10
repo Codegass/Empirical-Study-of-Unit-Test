@@ -1,0 +1,3 @@
+type,casepath,
+static,Data_NoLevel/accumulo/11_FileUtilTest.testCleanupIndexOpWithDfsDir.csv,
+static,Data_NoLevel/accumulo/40_WorkMakerIT.singleUnitSingleTarget.csv,

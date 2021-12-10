@@ -1,0 +1,9 @@
+type,casepath,
+only-test,Data_NoLevel/accumulo/0_BadIteratorMincIT.test.csv
+only-test,Data_NoLevel/accumulo/3_MultiIteratorTest.test2.csv,
+only-test,Data_NoLevel/accumulo/14_ConditionalWriterIT.testFields.csv
+only-test,Data_NoLevel/accumulo/19_RFileTest.test1.csv,
+only-test,Data_NoLevel/accumulo/27_CombinerTest.test5.csv,
+only-test,Data_NoLevel/accumulo/34_IterConfigUtilTest.test5.csv,
+only-test,Data_NoLevel/accumulo/44_CompactionIT.test.csv,
+only-test,Data_NoLevel/accumulo/60_RFileTest.test13.csv,
