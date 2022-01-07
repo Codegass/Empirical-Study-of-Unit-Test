@@ -1,4 +1,6 @@
 type,casepath,
 expected,Data_NoLevel/accumulo/2_ZooKeeperPropertiesIT.testNoFiles.csv,
 expected,Data_NoLevel/accumulo/23_ServerUtilTest.testCanRun.csv,
-expected,Data_NoLevel/accumulo/50_ShellServerIT.badLogin.csv
+expected,Data_NoLevel/accumulo/50_ShellServerIT.badLogin.csv,
+expected,Data_NoLevel/druid/7_ParseSpecTest.testDimensionSpecRequired.csv,
+expected,Data_NoLevel/druid/22_ParserTest.testLiteralArraysExplicitLongParseException.csv,

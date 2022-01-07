@@ -16,6 +16,10 @@ Print function should be replaced with String Assert
 
 Test the same function with different inputs, so we should split it into single AAA unit tests.
 
+* Repeat in AR AC AS order.
+* Single AR section with repeating AC AS section.[easy]
+* ~~Single AS section with repeating AR AC section.~~[More like Integration Test]
+
 ## Not Having Arrange
 
 Static Method do not need the arrangement.
@@ -47,8 +51,12 @@ The Assert shown before the function itself.(Our parser can parse it into the ca
 
 The Assert is stated right before the action.
 
-## Bad Name
+## ~~Bad Name~~
 
-The purpose is not stated in the case name. Using the name like `test2` or `testFields`.
+~~The purpose is not stated in the case name. Using the name like `test2` or `testFields`.~~
 
-Need to be rename with its action.
+~~Need to be rename with its action.~~
+
+## Mock
+
+TBD
